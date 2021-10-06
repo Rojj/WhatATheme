@@ -2,14 +2,14 @@
 title: Trent Basin Digital Twin
 layout: post
 post-image: /assets/images/projects/trent-basin.png
-description: Project Manager and engineering technical lead
+description: Product Manager and industry 
 tags:
-- project management
+- product management
 - thermal modelling
 - hvac design
 ---
 
-# What is WhatATheme?
+# Role and contribution
 >Project Manager and engineering technical lead - Digital twin for a new development in Nottingham. IES created an interactive platform that enables the Trent Basin community to visualise its energy data in real-time
 
 ---
@@ -36,13 +36,6 @@ The blog card includes
 * 300 words from the content of the post
 * The publish date
 * The time which will be required to read the post.
-
-### Projects -
-The Projects page will include all the projects from the **`projects.yml`** file which is present in the _data folder.<br>
-Projects will be showcased in a card-list format where each card will contain
-* An image related to the project
-* A Project Title
-* A Project Description of about 80 words
 
 ### Footer -
 The footer includes

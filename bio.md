@@ -7,12 +7,16 @@ title: More about me
     <a href="/assets/images/resume.pdf"
         class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Resume</a>
 </div>
+<br>
 
+### Who am I
 I am a multi-faceted engineer with broad experience in a variety of sustainability related projects, combined with software development skill from product management to software development
 
 I am a passionate professional with a talent for taking innovative ideas and taking them from concept to launch 
 
 I think the engineering mindset and experience gives me the focused approach towards solving problems. Coding is my tool of choice and I love doing it. Although I am not a professional, I am a quite advanced self-thought programmer and this allows me to empathize with the development team and I am as comfortable speaking with them as I am lieasing with the senior management.
+
+### My past
 
 I started as a mechanical engineer focusing on mechanical design and building physics. The latter has become my real passion and allowed to me to really understand how buildings work at a very deep level. Moving in the Middle East I have started to focus also on microclimate. A complex combination of solar radiation, temperature and wind. Not finding a proper tool or clear definition for that matter, I started to build my own. I have always loved programming, especially when applied to engineering problems. 
 
@@ -28,7 +32,7 @@ They probably represent the synthesic of my passions: engineering, computer mode
 
 I am a passionate individual and I am looking for a work with purpose. For me the fight against climate change is a moral imperative and that is why I want to work in Climate Tech to make an impact. I want to be able to say: I did my part.
 
-\lettersection{Why Google?}
+### Future
 My dream is to build a digital twin of the built environment. I have been trying to do it for last 7 years of my career, but I have come to realise that only an organisation with large resource will ever be able to make it a reality.
 
 Imagine a world wide web for the built environment. Linked information across several data sources, public and private, with different level of access, easily accessible and all linked via standard ontologies.
