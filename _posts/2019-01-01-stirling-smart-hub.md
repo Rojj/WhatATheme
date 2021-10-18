@@ -1,7 +1,7 @@
 ---
 title: Stirling Smart Hub
 layout: post
-post-image: /assets/images/projects/stirling-castle.png
+post-image: /assets/images/projects/iot_stirliing.png
 description: Project Manager and engineering technical lead
 tags:
 - product management
