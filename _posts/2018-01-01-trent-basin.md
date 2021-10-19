@@ -2,64 +2,28 @@
 title: Trent Basin Digital Twin
 layout: post
 post-image: /assets/images/projects/trent-basin.png
-description: Product Manager and industry 
+description: Digital Twin for a sustainable residential development in Nottingham
 tags:
-- product management
-- thermal modelling
-- hvac design
+- Product Management
+- Internet of Things
+- UI/UX
 ---
 
-# Role and contribution
->Project Manager and engineering technical lead - Digital twin for a new development in Nottingham. IES created an interactive platform that enables the Trent Basin community to visualise its energy data in real-time
+The Nottingham Trent Basin is a residential development with high aspirations. The architects and the university designed together with two goals in mind. First they wanted to show off all the sustainbility features of the development and then they wanted to study the behiour of the residets. To achive the first goal they installed a 3.2m x 1.8m touch wall with which the resodents  and visitor can interact. they also instellaed several Iot sensors in the homes so they can study the bahaviour. Everything of course in respect of privay.
+
+**The touch wall installed on site**<br>
+![The touch wall](/assets/images/projects/trent-basin-screen.JPG)
+
+Project Manager and engineering technical lead - Digital twin for a new development in Nottingham. IES created an interactive platform that enables the Trent Basin community to visualise its energy data in real-time. There are different level of access for the public - all the specific uilding data is hidden and only aggregate information is diplayed, and a dedicated link for the reseacrhecr. It was a great project as it shouws how even for a relatively small developmnet there are so many issues with data that need to be resolbed.
+
+**The Trent Basin Digital Twin**<br>
+![The webiste](/assets/images/projects/trent-basin-CIM.png)
 
 ---
+The project was also featured on the popular YouTube channel TheB1M with interviews to the main people involved in the project. 
+
 **How Construction Technology Could Solve The Climate Emergency**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OjGkrwP7DMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/OjGkrwP7DMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
 
-### Home Page -
-* A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.
-* An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.
-* A Contact section - A section where you can include 3 direct ways to contact<br>
-`Ping on Messenger`<br>
-`Send an Email`<br>
-`Tweet on Twitter`<br>
-The contact section will also include 10 different social media buttons for your audience to follow.<br>
-`Facebook`, `Twitter`, `Instagram`, `LinkedIn`, `GitHub`, `YouTube`, `Reddit`, `Behance`, `Dribbble` & `Spotify`.
-
-### Blog -
-The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description & content of your post and shows the result as soon as you type.<br>
-The blog card includes
-* Post Title
-* 300 words from the content of the post
-* The publish date
-* The time which will be required to read the post.
-
-### Footer -
-The footer includes
-* A small about the author widget which show the same `Author Image` as mentioned in the about section of the Home page which includes `Name of the Author`, `Around 75 words about the author`.
-* A more link widget which includes a link to any extra page that you've created and a `Subscribe via RSS` link.
-* A Recent posts widget which will include latest 3 posts.
-
-#### Extra Features -
-WhatATheme comes pre installed with
-* **HTML Compressor** - It'll compress all the pages by removing any extra space or blank lines.
-* **Google Analytics** - A web analytics service offered by Google that tracks and reports website traffic. For more information [click here](https://analytics.google.com){:target="blank"}.
-* **Disqus** - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus [click here](https://help.disqus.com/en/articles/1717053-what-is-disqus){:target="blank"}
-
-	##### For more information about WhatATheme [click here](https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md){:target="blank"}.
-
----
-
-# Installation
-### Step 1 - Setting up WhatATheme
-> * Fork the [repository](https://github.com/thedevslot/WhatATheme/tree/master){:target="blankl"}
-> * Go to repository settings and set Github Pages source as master.
-> * Your new site should be ready at [https://username.github.io/WhatATheme/](#){:target="blank"}
-
-### Step 2 - Making changes via **_config.yml**
-> * Open _config.yml file
-> * Fill the available details accordingly
-> * Commit the changes
