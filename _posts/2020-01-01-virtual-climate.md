@@ -12,7 +12,7 @@ tags:
 ---
 
 # MCTools
-At the early stages of design microclimate analysis is usually performed based on simple weather data, and it often ignores the effect of the local urban morphology. Typical example is the use of meteorological wind speed at 10 m near the airport as opposed to the actual local air speed. The latter is what actually counts for pedestrian comfort.
+At the early stage of design, microclimate analysis is usually performed based on simple weather data, and it often ignores the effect of the local urban morphology. Typical example is the use of meteorological wind speed at 10 m near the airport as opposed to the actual local air speed. The latter is what actually counts for pedestrian comfort.
 Actual comfort is rarely considered and proxies such temperature or Predicted Mean Vote are used. Pedestrian outdoor comfort depends on a combination of local air velocity, solar radiation, humidity and temperature. State-of-the-art comfort indexes such Physiological Equivalent Temperature (PET) or Universal Thermal Comfort Index (UTCI) take these dependencies into account and are more suitable to represent actual comfort conditions.
 
 **The Universal Thermal Comfort Index**<br>
