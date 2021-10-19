@@ -2,11 +2,10 @@
 title: London Olympics 2012 - Waterpolo Arena
 layout: post
 post-image: /assets/images/projects/london-2012-water-polo-arena.png
-description: CFD, Thermal Modelling
+description: Computer modeling for this complex temporary building that hosted the water polo competition during the London 2012 Olympics 
 tags:
-- cfd
-- setup
-- theme
+- Computational Fluid Dynamic
+- Thermal Modelling
 ---
 
 Responsible for the energy modelling and computational fluid dynamic analysis of this impressive temporary structure built for the water polo competition during the London 2012 Olympics.

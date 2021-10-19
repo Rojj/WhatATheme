@@ -2,11 +2,11 @@
 title: Windmill Hill Estate
 layout: post
 post-image: /assets/images/projects/windmill-hill.png
-description: Project Management, Mechanical Design, Thermal Modelling
+description: Beautiful development in the English countryside for the Rothshild foundation. 
 tags:
-- project management
-- thermal modelling
-- hvac design
+- Project Management
+- Thermal Modelling
+- HVAC Design
 ---
 
 Designed and built for the Rothschild Foundation this impressive development features:

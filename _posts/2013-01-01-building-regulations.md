@@ -2,7 +2,7 @@
 title: Building Regulations for Developing Coutries
 layout: post
 post-image: "/assets/images/projects/Manila-American-Cemetery-and-Memorial-Taguig-Philippines.png"
-description: Building Regulation Technical Analysis for Vietnam, Bangladesh and Philippines
+description: Development of simulation based Building Regulations for Vietnam, Bangladesh and the Philippines
 tags:
 - Energy Modelling
 - Project Management

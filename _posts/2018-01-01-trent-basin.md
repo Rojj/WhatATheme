@@ -7,6 +7,7 @@ tags:
 - Product Management
 - Internet of Things
 - UI/UX
+- Digital Twins
 ---
 
 The Nottingham Trent Basin is a residential development with high aspirations. The architects and the university designed together with two goals in mind. First they wanted to show off all the sustainbility features of the development and then they wanted to study the behiour of the residets. To achive the first goal they installed a 3.2m x 1.8m touch wall with which the resodents  and visitor can interact. they also instellaed several Iot sensors in the homes so they can study the bahaviour. Everything of course in respect of privay.

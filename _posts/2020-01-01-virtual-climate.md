@@ -7,6 +7,8 @@ tags:
 - Computational Fluid Dynamic
 - Outdoor Thermal Comfort
 - Software Development
+- Digital Twins
+- IoT
 ---
 
 # MCTools
