@@ -10,10 +10,9 @@ tags:
 
 Responsible for the energy modelling and computational fluid dynamic analysis of this impressive temporary structure built for the water polo competition during the London 2012 Olympics.
 
-The project was a great collaboration between the building service engineers, the computer modelers and the architects. The main challenge for the project was to provide acceptable air temperature in the spectator areas during the month of May while, at the same time, "isolate" the pool area from the overall airflow. Computational fluid dynamic was instrumental to achieve this goal and required intense collaboration and continuous iterations.
+The project was a great collaboration between the building service engineers, the computer modelers and the architects. The main challenge for the project was to provide acceptable air temperature in the spectators' area during Summer while, at the same time, "isolate" the pool area from the overall airflow. Computational fluid dynamic was instrumental to achieve this goal and required intense collaboration and continuous iterations between all the teams involved.
 
 ---
-
 
 **Results from the CFD simulation**<br>
 ![CFD](/assets/images/projects/waterpolo_CFD.png)
