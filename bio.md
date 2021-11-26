@@ -29,11 +29,11 @@ Currently, I am Chief Product Manager at IES Ltd where I focus on digital twins 
 I am a passionate individual who seeks purpose in his work. For me the fight against climate change is a moral imperative and working in Climate Tech allows me to make an impact.
 
 ### Future
-My dream is to build a digital twin of the built environment. I have been trying to do it for last 7 years of my career, but I have come to realize that only an organization with large resource will ever be able to make it a reality.
+My dream is to build a digital twin of the built environment. I have been working with that goal in mind for last 7 years of my career.
 
 Imagine a World Wide Web for the built environment. Linked, privacy aware, digital twins across cities and countries. I believe that digital twins are the solution to climate change in real estate. Data would be collected, organized and enriched based on standard ontologies and accessible via APIs. A digital twin from a single building to cities to countries. 
 
-I am keen to continue with product management primarily in the field of climate tech because climate change is one of the biggest challenges of our time and I want to be a part of the solution.
+I am keen to continue to work on products, primarily climate tech, because climate change is one of the biggest challenges of our time and I want to be a part of the solution.
 
 I bring passion, competence and curiosity to the table, combined with deep understanding of technology, keen empathy with users and business sensitivity. I have good product intuition from the commercial and technical side.  
 
