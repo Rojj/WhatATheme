@@ -31,7 +31,7 @@ I am a passionate individual who seeks purpose in his work. For me the fight aga
 ### Future
 My dream is to build a digital twin of the built environment. I have been working with that goal in mind for last 7 years of my career.
 
-Imagine a World Wide Web for the built environment. Linked, privacy aware, digital twins across cities and countries. I believe that digital twins are the solution to climate change in real estate. Data would be collected, organized and enriched based on standard ontologies and accessible via APIs. A digital twin from a single building to cities to countries. 
+Imagine a World Wide Web for the built environment. Linked, privacy aware, digital twins across cities and countries. I believe that digital twins are the solution to climate change in real estate. Data would be collected, organized and enriched based on standard ontologies and accessible via APIs. A global digital twin, from a single building to cities to countries. 
 
 I am keen to continue to work on products, primarily climate tech, because climate change is one of the biggest challenges of our time and I want to be a part of the solution.
 
