@@ -11,7 +11,7 @@ tags:
 
 Designed and built for the Rothschild Foundation this impressive development features:
 * Ground Source Heat Pumps
-* natural ventilation
+* Natural ventilation
 * 50% less energy than required by building regulations
 * passive archive able to maintain ideal internal conditions without the need for mechanical ventilation.
 
