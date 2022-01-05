@@ -4,7 +4,7 @@ title: More about me
 ---
 
 <div>
-    <a href="/assets/images/resume.pdf"
+    <a href="/assets/images/ruggiero-guida-20210105-resume.pdf"
         class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Resume</a>
 </div>
 <br>
